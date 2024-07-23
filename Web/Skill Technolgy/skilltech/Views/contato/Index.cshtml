@@ -1,0 +1,150 @@
+﻿@model skilltech.Models.contatoModel
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Formulário de Contato</title>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+<body>
+    <section>
+        <div class="card bg-dark text-white align-text-bottom">
+            <img src="~/image/inicial-02.png" class="card-img" alt="...">
+            <div class="card-img-overlay ">
+                <h1 class="card-title">Skill Tecnolgia</h1>
+                <h4 class="card-text">Empoderar negócios e indivíduos com soluções tecnológicas inovadoras que transformam desafios em oportunidades, promovendo eficiência, crescimento e impacto positivo no mundo</h4>.</p>
+                <p class="card-text">Last updated 3 mins ago</p>
+            </div>
+        </div>
+    </section>
+
+    <section>
+       <div style="padding:25px;">
+        <div class="card mb-3 " style="max-width: 1440px; ">
+          <div class="row g-0">
+            <div class="col-md-4">
+              <img src="~/image/web-01.jpg" class="img-fluid rounded-start" alt="...">
+            </div>
+            <div class="col-md-8">
+              <div class="card-body">
+                <h5 class="card-title">Web developer</h5>
+                        <p class="card-text">Criar soluções específicas para as necessidades exclusivas dos clientes, seja um sistema de gestão empresarial, uma aplicação móvel ou uma plataforma de e-commerce.</p>
+                <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+              </div>
+            </div>
+         </div>
+        </div>
+
+        <div class="card mb-3" style="max-width: 1440px; padding:25px;">
+            <div class="row g-0">
+                
+                <div class="col-md-8">
+                    <div class="card-body">
+                        <h5 class="card-title">Web developer</h5>
+                        <p class="card-text">Criar soluções específicas para as necessidades exclusivas dos clientes, seja um sistema de gestão empresarial, uma aplicação móvel ou uma plataforma de e-commerce.</p>
+                        <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <img src="~/image/inicial-01.jpg" class="img-fluid rounded-start" alt="...">
+                </div>
+            </div>
+        </div>
+
+        <div class="card mb-3" style="max-width: 1440px; padding:25px;">
+            <div class="row g-0">
+                <div class="col-md-4">
+                    <img src="~/image/web-01.jpg" class="img-fluid rounded-start" alt="...">
+                </div>
+                <div class="col-md-8">
+                    <div class="card-body">
+                        <h5 class="card-title">Web developer</h5>
+                        <p class="card-text">Criar soluções específicas para as necessidades exclusivas dos clientes, seja um sistema de gestão empresarial, uma aplicação móvel ou uma plataforma de e-commerce.</p>
+                        <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="card mb-3" style="max-width: 1440px;">
+            <div class="row g-0">
+
+                <div class="col-md-8">
+                    <div class="card-body">
+                        <h5 class="card-title">Web developer</h5>
+                        <p class="card-text">Criar soluções específicas para as necessidades exclusivas dos clientes, seja um sistema de gestão empresarial, uma aplicação móvel ou uma plataforma de e-commerce.</p>
+                        <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <img src="~/image/web-01.jpg" class="img-fluid rounded-start" alt="...">
+                </div>
+            </div>
+        </div>
+
+
+        <div class="card mb-3" style="max-width: 1440px;">
+            <div class="row g-0">
+                <div class="col-md-4">
+                    <img src="~/image/web-01.jpg" class="img-fluid rounded-start" alt="...">
+                </div>
+                <div class="col-md-8">
+                    <div class="card-body">
+                        <h5 class="card-title">Web developer</h5>
+                        <p class="card-text">Criar soluções específicas para as necessidades exclusivas dos clientes, seja um sistema de gestão empresarial, uma aplicação móvel ou uma plataforma de e-commerce.</p>
+                        <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="card mb-3" style="max-width: 1440px;">
+            <div class="row g-0">
+
+                <div class="col-md-8">
+                    <div class="card-body">
+                        <h5 class="card-title">Web developer</h5>
+                        <p class="card-text">Criar soluções específicas para as necessidades exclusivas dos clientes, seja um sistema de gestão empresarial, uma aplicação móvel ou uma plataforma de e-commerce.</p>
+                        <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <img src="~/image/web-01.jpg" class="img-fluid rounded-start" alt="...">
+                </div>
+            </div>
+        </div>
+
+      </div>
+
+    </section>
+   
+   
+    <div>
+        <form asp-action="Index" method="post">
+            <label>Nome Completo</label><br />
+            <input type="text" asp-for="Name" required /><br />
+            <label>Email</label><br />
+            <input type="email" asp-for="Email" required /><br />
+            <label>Telefone</label><br />
+            <input type="text" asp-for="Telefone" required /><br />
+            <label>Deixe sua mensagem</label><br />
+            <textarea asp-for="Message" required></textarea><br /> <br />
+            <input type="submit" value="Enviar" />
+
+            @if (TempData["SuccessMessage"] != null)
+            {
+                <script type="text/javascript">
+                    $(document).ready(function () {
+                        alert('@TempData["SuccessMessage"]');
+                    });
+                </script>
+            }
+        </form>
+    </div>
+   
+</body>
+</html>
+

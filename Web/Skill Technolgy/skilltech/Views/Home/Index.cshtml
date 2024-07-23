@@ -1,0 +1,29 @@
+﻿@model skilltech.Models.contatoModel
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Skill Technologia </title>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+<body>
+
+   
+
+    <form asp-action="Index" method="post">
+        <label>Nome Completo</label><br />
+        <input type="text" asp-for="Name" required /><br />
+        <label>Email</label><br />
+        <input type="email" asp-for="Email" required /><br />
+        <label>Telefone</label><br />
+        <input type="text" asp-for="Telefone" required /><br />
+        <label>Deixe sua mensagem</label><br />
+        <textarea asp-for="Message" required></textarea><br /> <br />
+        <input type="submit" value="Enviar" />
+    </form>
+</body>
+</html>
+
