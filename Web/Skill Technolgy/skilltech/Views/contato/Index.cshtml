@@ -10,13 +10,13 @@
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 </head>
 <body>
-    <section>
+    <section style="background-image:url('@Url.Content("~/images/inicial-02.png")');position:cover;width:100%;height:auto;">
         <div class="card bg-dark text-white align-text-bottom">
-            <img src="~/image/inicial-02.png" class="card-img" alt="...">
-            <div class="card-img-overlay ">
-                <h1 class="card-title">Skill Tecnolgia</h1>
-                <h4 class="card-text">Empoderar negócios e indivíduos com soluções tecnológicas inovadoras que transformam desafios em oportunidades, promovendo eficiência, crescimento e impacto positivo no mundo</h4>.</p>
-                <p class="card-text">Last updated 3 mins ago</p>
+            <img src="~/image/inicial-02.png" class="card-img" alt="">
+            <div class="card-img-overlay " style="color:black; padding-top:150px;">
+                <h1 class="card-title" style="width:500px;font-size:60px;padding-bottom:50px; font-weight:bold; font-family:Haettenschweiler, 'Arial Narrow Bold', sans-serif;">Skill Tecnolgia</h1>
+                <p class="card-text" style="color:bisque; width:650px; font-size:25px;">Empoderar negócios e indivíduos com soluções tecnológicas inovadoras que transformam desafios em oportunidades, promovendo eficiência, crescimento e impacto positivo no mundo</p></p>
+                <p class="card-text" style="font-size:20px;">Solução em technologia e inovação.</p>
             </div>
         </div>
     </section>
@@ -117,33 +117,78 @@
             </div>
         </div>
 
-      </div>
-
+        </div>
     </section>
-   
-   
-    <div>
-        <form asp-action="Index" method="post">
-            <label>Nome Completo</label><br />
-            <input type="text" asp-for="Name" required /><br />
-            <label>Email</label><br />
-            <input type="email" asp-for="Email" required /><br />
-            <label>Telefone</label><br />
-            <input type="text" asp-for="Telefone" required /><br />
-            <label>Deixe sua mensagem</label><br />
-            <textarea asp-for="Message" required></textarea><br /> <br />
-            <input type="submit" value="Enviar" />
 
-            @if (TempData["SuccessMessage"] != null)
-            {
-                <script type="text/javascript">
-                    $(document).ready(function () {
-                        alert('@TempData["SuccessMessage"]');
-                    });
-                </script>
-            }
-        </form>
-    </div>
+
+    <!--
+       <section style="background-color:black; padding:25px;">
+           <div>
+            <h4>Entre em contato conosco!</h4>
+            <hr />
+           </div>
+            <div class="container" style="">
+                <form asp-action="Index" method="post">
+                    <label>Nome Completo</label><br />
+                    <input type="text" asp-for="Name" required /><br />
+                    <label>Email</label><br />
+                    <input type="email" asp-for="Email" required /><br />
+                    <label>Telefone</label><br />
+                    <input type="text" asp-for="Telefone" required /><br />
+                    <label>Deixe sua mensagem</label><br />
+                    <textarea asp-for="Message" required></textarea><br /> <br />
+                    <input type="submit" value="Enviar" />
+
+                    @if (TempData["SuccessMessage"] != null)
+                    {
+                        <script type="text/javascript">
+                            $(document).ready(function () {
+                                alert('@TempData["SuccessMessage"]');
+                            });
+                        </script>
+                    }
+                </form>
+        </div>
+        </section>-->
+
+        <section>
+        <div class="container card mb-3 bg-black" style="max-width: 1440px;padding:25px; color:aliceblue; ">
+            <div class="row g-0">
+
+                <div class="col-md-8">
+                        <div>
+                            <h4>Entre em contato conosco!</h4>
+                            <hr />
+                        </div>
+                    <div >
+                        <form asp-action="Index" method="post">
+                            <label>Nome Completo</label><br />
+                            <input type="text" asp-for="Name" required /><br />
+                            <label>Email</label><br />
+                            <input type="email" asp-for="Email" required /><br />
+                            <label>Telefone</label><br />
+                            <input type="text" asp-for="Telefone" required /><br />
+                            <label>Deixe sua mensagem</label><br />
+                            <textarea asp-for="Message" required></textarea><br /> <br />
+                            <input type="submit" value="Enviar" />
+
+                            @if (TempData["SuccessMessage"] != null)
+                            {
+                                <script type="text/javascript">
+                                    $(document).ready(function () {
+                                        alert('@TempData["SuccessMessage"]');
+                                    });
+                                </script>
+                            }
+                        </form>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <img src="~/image/contato-01.jpeg" width="100%" class="img-fluid rounded-start" alt="...">
+                </div>
+            </div>
+        </div>
+        </section>
    
 </body>
 </html>

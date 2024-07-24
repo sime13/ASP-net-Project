@@ -36,5 +36,12 @@ namespace skilltech.Controllers
             return View();
         }
 
+
+        public IActionResult ExibirContatos()
+        {
+            var contatos = _context.contatoModels.ToList();
+            return View(contatos);
+        }
+
     }
 }

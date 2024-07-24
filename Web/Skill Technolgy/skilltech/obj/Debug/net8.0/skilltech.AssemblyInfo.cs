@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("skilltech")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fd73eacc690c3d33b152aff50290bca42a6a30a6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a8a912400672b2ee66572e03e779da1f2963a1be")]
 [assembly: System.Reflection.AssemblyProductAttribute("skilltech")]
 [assembly: System.Reflection.AssemblyTitleAttribute("skilltech")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
