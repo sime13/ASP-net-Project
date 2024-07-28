@@ -19,7 +19,7 @@ namespace skilltech.Controllers
             return View();
         }
 
-        [HttpPost]
+        [HttpPost]                                                                                                    
         public async Task<IActionResult> Index(contatoModel model) 
         {
             if (ModelState.IsValid)
@@ -33,7 +33,7 @@ namespace skilltech.Controllers
         }
         public IActionResult Success()
         {
-            return View();
+            return View();        
         }
 
 
@@ -42,6 +42,7 @@ namespace skilltech.Controllers
             var contatos = _context.contatoModels.ToList();
             return View(contatos);
         }
+         
 
     }
 }

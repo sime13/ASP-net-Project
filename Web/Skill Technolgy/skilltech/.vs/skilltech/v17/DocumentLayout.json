@@ -3,12 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\simed\\OneDrive\\Documentos\\Asp Net Core\\Git hub project Asp net\\ASP-net-Project\\Web\\Skill Technolgy\\skilltech\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2BDB06D4-2F2B-439B-A3FC-32AA069895DD}|skilltech.csproj|c:\\users\\simed\\onedrive\\documentos\\asp net core\\git hub project asp net\\asp-net-project\\web\\skill technolgy\\skilltech\\views\\contato\\exibircontatos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2BDB06D4-2F2B-439B-A3FC-32AA069895DD}|skilltech.csproj|solutionrelative:views\\contato\\exibircontatos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{2BDB06D4-2F2B-439B-A3FC-32AA069895DD}|skilltech.csproj|c:\\users\\simed\\onedrive\\documentos\\asp net core\\git hub project asp net\\asp-net-project\\web\\skill technolgy\\skilltech\\controllers\\admrootcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BDB06D4-2F2B-439B-A3FC-32AA069895DD}|skilltech.csproj|solutionrelative:controllers\\admrootcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BDB06D4-2F2B-439B-A3FC-32AA069895DD}|skilltech.csproj|c:\\users\\simed\\onedrive\\documentos\\asp net core\\git hub project asp net\\asp-net-project\\web\\skill technolgy\\skilltech\\views\\admroot\\rootlog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2BDB06D4-2F2B-439B-A3FC-32AA069895DD}|skilltech.csproj|solutionrelative:views\\admroot\\rootlog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BDB06D4-2F2B-439B-A3FC-32AA069895DD}|skilltech.csproj|c:\\users\\simed\\onedrive\\documentos\\asp net core\\git hub project asp net\\asp-net-project\\web\\skill technolgy\\skilltech\\models\\admrootmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BDB06D4-2F2B-439B-A3FC-32AA069895DD}|skilltech.csproj|solutionrelative:models\\admrootmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BDB06D4-2F2B-439B-A3FC-32AA069895DD}|skilltech.csproj|c:\\users\\simed\\onedrive\\documentos\\asp net core\\git hub project asp net\\asp-net-project\\web\\skill technolgy\\skilltech\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BDB06D4-2F2B-439B-A3FC-32AA069895DD}|skilltech.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BDB06D4-2F2B-439B-A3FC-32AA069895DD}|skilltech.csproj|c:\\users\\simed\\onedrive\\documentos\\asp net core\\git hub project asp net\\asp-net-project\\web\\skill technolgy\\skilltech\\models\\adminmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BDB06D4-2F2B-439B-A3FC-32AA069895DD}|skilltech.csproj|solutionrelative:models\\adminmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BDB06D4-2F2B-439B-A3FC-32AA069895DD}|skilltech.csproj|c:\\users\\simed\\onedrive\\documentos\\asp net core\\git hub project asp net\\asp-net-project\\web\\skill technolgy\\skilltech\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2BDB06D4-2F2B-439B-A3FC-32AA069895DD}|skilltech.csproj|solutionrelative:views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BDB06D4-2F2B-439B-A3FC-32AA069895DD}|skilltech.csproj|c:\\users\\simed\\onedrive\\documentos\\asp net core\\git hub project asp net\\asp-net-project\\web\\skill technolgy\\skilltech\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BDB06D4-2F2B-439B-A3FC-32AA069895DD}|skilltech.csproj|solutionrelative:controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2BDB06D4-2F2B-439B-A3FC-32AA069895DD}|skilltech.csproj|c:\\users\\simed\\onedrive\\documentos\\asp net core\\git hub project asp net\\asp-net-project\\web\\skill technolgy\\skilltech\\controllers\\contatocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2BDB06D4-2F2B-439B-A3FC-32AA069895DD}|skilltech.csproj|solutionrelative:controllers\\contatocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BDB06D4-2F2B-439B-A3FC-32AA069895DD}|skilltech.csproj|c:\\users\\simed\\onedrive\\documentos\\asp net core\\git hub project asp net\\asp-net-project\\web\\skill technolgy\\skilltech\\views\\contato\\exibircontatos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2BDB06D4-2F2B-439B-A3FC-32AA069895DD}|skilltech.csproj|solutionrelative:views\\contato\\exibircontatos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2BDB06D4-2F2B-439B-A3FC-32AA069895DD}|skilltech.csproj|c:\\users\\simed\\onedrive\\documentos\\asp net core\\git hub project asp net\\asp-net-project\\web\\skill technolgy\\skilltech\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,37 +58,128 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RootLog.cshtml",
+              "DocumentMoniker": "C:\\Users\\simed\\OneDrive\\Documentos\\Asp Net Core\\Git hub project Asp net\\ASP-net-Project\\Web\\Skill Technolgy\\skilltech\\Views\\AdmRoot\\RootLog.cshtml",
+              "RelativeDocumentMoniker": "Views\\AdmRoot\\RootLog.cshtml",
+              "ToolTip": "C:\\Users\\simed\\OneDrive\\Documentos\\Asp Net Core\\Git hub project Asp net\\ASP-net-Project\\Web\\Skill Technolgy\\skilltech\\Views\\AdmRoot\\RootLog.cshtml",
+              "RelativeToolTip": "Views\\AdmRoot\\RootLog.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-28T22:25:27.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "AdmRootController.cs",
+              "DocumentMoniker": "C:\\Users\\simed\\OneDrive\\Documentos\\Asp Net Core\\Git hub project Asp net\\ASP-net-Project\\Web\\Skill Technolgy\\skilltech\\Controllers\\AdmRootController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdmRootController.cs",
+              "ToolTip": "C:\\Users\\simed\\OneDrive\\Documentos\\Asp Net Core\\Git hub project Asp net\\ASP-net-Project\\Web\\Skill Technolgy\\skilltech\\Controllers\\AdmRootController.cs",
+              "RelativeToolTip": "Controllers\\AdmRootController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T22:04:56.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdmRootModel.cs",
+              "DocumentMoniker": "C:\\Users\\simed\\OneDrive\\Documentos\\Asp Net Core\\Git hub project Asp net\\ASP-net-Project\\Web\\Skill Technolgy\\skilltech\\Models\\AdmRootModel.cs",
+              "RelativeDocumentMoniker": "Models\\AdmRootModel.cs",
+              "ToolTip": "C:\\Users\\simed\\OneDrive\\Documentos\\Asp Net Core\\Git hub project Asp net\\ASP-net-Project\\Web\\Skill Technolgy\\skilltech\\Models\\AdmRootModel.cs",
+              "RelativeToolTip": "Models\\AdmRootModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T21:59:59.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\simed\\OneDrive\\Documentos\\Asp Net Core\\Git hub project Asp net\\ASP-net-Project\\Web\\Skill Technolgy\\skilltech\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\simed\\OneDrive\\Documentos\\Asp Net Core\\Git hub project Asp net\\ASP-net-Project\\Web\\Skill Technolgy\\skilltech\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "Views\\Admin\\Index.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-28T21:19:31.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\simed\\OneDrive\\Documentos\\Asp Net Core\\Git hub project Asp net\\ASP-net-Project\\Web\\Skill Technolgy\\skilltech\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\simed\\OneDrive\\Documentos\\Asp Net Core\\Git hub project Asp net\\ASP-net-Project\\Web\\Skill Technolgy\\skilltech\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Controllers\\AdminController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T21:00:19.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminModel.cs",
+              "DocumentMoniker": "C:\\Users\\simed\\OneDrive\\Documentos\\Asp Net Core\\Git hub project Asp net\\ASP-net-Project\\Web\\Skill Technolgy\\skilltech\\Models\\AdminModel.cs",
+              "RelativeDocumentMoniker": "Models\\AdminModel.cs",
+              "ToolTip": "C:\\Users\\simed\\OneDrive\\Documentos\\Asp Net Core\\Git hub project Asp net\\ASP-net-Project\\Web\\Skill Technolgy\\skilltech\\Models\\AdminModel.cs",
+              "RelativeToolTip": "Models\\AdminModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T20:52:04.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\simed\\OneDrive\\Documentos\\Asp Net Core\\Git hub project Asp net\\ASP-net-Project\\Web\\Skill Technolgy\\skilltech\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\simed\\OneDrive\\Documentos\\Asp Net Core\\Git hub project Asp net\\ASP-net-Project\\Web\\Skill Technolgy\\skilltech\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T20:49:10.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "ExibirContatos.cshtml",
               "DocumentMoniker": "C:\\Users\\simed\\OneDrive\\Documentos\\Asp Net Core\\Git hub project Asp net\\ASP-net-Project\\Web\\Skill Technolgy\\skilltech\\Views\\contato\\ExibirContatos.cshtml",
               "RelativeDocumentMoniker": "Views\\contato\\ExibirContatos.cshtml",
               "ToolTip": "C:\\Users\\simed\\OneDrive\\Documentos\\Asp Net Core\\Git hub project Asp net\\ASP-net-Project\\Web\\Skill Technolgy\\skilltech\\Views\\contato\\ExibirContatos.cshtml",
               "RelativeToolTip": "Views\\contato\\ExibirContatos.cshtml",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAADYAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-07-24T21:19:28.173Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "contatoController.cs",
               "DocumentMoniker": "C:\\Users\\simed\\OneDrive\\Documentos\\Asp Net Core\\Git hub project Asp net\\ASP-net-Project\\Web\\Skill Technolgy\\skilltech\\Controllers\\contatoController.cs",
               "RelativeDocumentMoniker": "Controllers\\contatoController.cs",
               "ToolTip": "C:\\Users\\simed\\OneDrive\\Documentos\\Asp Net Core\\Git hub project Asp net\\ASP-net-Project\\Web\\Skill Technolgy\\skilltech\\Controllers\\contatoController.cs",
               "RelativeToolTip": "Controllers\\contatoController.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAQwCcAAAAhAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-24T20:39:55.93Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 11,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\simed\\OneDrive\\Documentos\\Asp Net Core\\Git hub project Asp net\\ASP-net-Project\\Web\\Skill Technolgy\\skilltech\\Views\\contato\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\contato\\Index.cshtml",
@@ -68,12 +187,11 @@
               "RelativeToolTip": "Views\\contato\\Index.cshtml",
               "ViewState": "AQIAAFUAAAAAAAAAAAAswHkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-23T21:52:20.614Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-23T21:52:20.614Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 10,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\simed\\OneDrive\\Documentos\\Asp Net Core\\Git hub project Asp net\\ASP-net-Project\\Web\\Skill Technolgy\\skilltech\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
@@ -81,12 +199,11 @@
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-23T21:34:11.829Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-23T21:34:11.829Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\simed\\OneDrive\\Documentos\\Asp Net Core\\Git hub project Asp net\\ASP-net-Project\\Web\\Skill Technolgy\\skilltech\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",

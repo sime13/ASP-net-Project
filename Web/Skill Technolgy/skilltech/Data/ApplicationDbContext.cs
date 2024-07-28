@@ -11,6 +11,8 @@ namespace skilltech.Data
         }
 
         public DbSet<contatoModel> contatoModels { get; set; }
+        public DbSet<AdminModel> AdminModels { get; set; }
+        public DbSet<AdmRootModel> AdmRootModels { get; set; }
 
     }
 }
