@@ -11,7 +11,7 @@ namespace skilltech.Controllers
         {
             if(Email == "sime@adm.com" && Senha == "sime1234")
             {
-                return View("../Admin/Index");
+                return View("Home");
             }
             ViewBag.Message = "Email ou senha incorretos.";
             return View();

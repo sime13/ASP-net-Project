@@ -25,14 +25,14 @@ namespace skilltech.Controllers
             {
                 _context.AdminModels.Add(model);
                 await _context.SaveChangesAsync();
-                TempData["SuccessMessage"] = "Adimn cadastra  com sucesso!";
-                return RedirectToAction("Index");
+                TempData["SuccessMessage"] = "Admin cadastrado com sucesso!";
+                return View("../Admin/Index");
             }
             return View(model);
         }
 
         //Admin Root
-        int Senha;
+       /* int Senha;
         string Email;
         public IActionResult LoginAdmin()
         {
@@ -42,6 +42,6 @@ namespace skilltech.Controllers
             }
             return View();
         }
-
+       */
     }
 }
