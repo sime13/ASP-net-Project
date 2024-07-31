@@ -31,17 +31,27 @@ namespace skilltech.Controllers
             return View(model);
         }
 
-        //Admin Root
-       /* int Senha;
-        string Email;
-        public IActionResult LoginAdmin()
+        //list ADm
+
+        public IActionResult AdmCadastrados()
         {
-            if(Senha==1234 && Email=="sime@admim.com")
-            {
-                return RedirectToAction("Admin/Index");
-            }
-            return View();
+            var adms  = _context.AdminModels.ToList();
+            return View(adms);
         }
-       */
+
+
+
+        //Admin Root
+        /* int Senha;
+         string Email;
+         public IActionResult LoginAdmin()
+         {
+             if(Senha==1234 && Email=="sime@admim.com")
+             {
+                 return RedirectToAction("Admin/Index");
+             }
+             return View();
+         }
+        */
     }
 }

@@ -26,6 +26,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\simed\OneDrive\Documentos\Asp Net Core\Git hub project Asp net\ASP-net-Project\Web\Skill Technolgy\skilltech
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/simed/OneDrive/Documentos/Asp Net Core/Git hub project Asp net/ASP-net-Project/Web/Skill Technolgy/skilltech/Views/Admin/AdmCadastrados.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRtQ2FkYXN0cmFkb3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/simed/OneDrive/Documentos/Asp Net Core/Git hub project Asp net/ASP-net-Project/Web/Skill Technolgy/skilltech/Views/Admin/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
