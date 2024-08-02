@@ -38,8 +38,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -48,7 +52,7 @@
               "RelativeDocumentMoniker": "Views\\contato\\ExibirContatos.cshtml",
               "ToolTip": "C:\\Users\\simed\\OneDrive\\Documentos\\Asp Net Core\\Git hub project Asp net\\ASP-net-Project\\Web\\Skill Technolgy\\skilltech\\Views\\contato\\ExibirContatos.cshtml",
               "RelativeToolTip": "Views\\contato\\ExibirContatos.cshtml",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAACYAAAARAAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABgAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-07-31T21:43:28.169Z",
               "EditorCaption": ""
@@ -63,8 +67,7 @@
               "RelativeToolTip": "Views\\Admin\\AdmCadastrados.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-31T21:33:41.207Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-31T21:33:41.207Z"
             },
             {
               "$type": "Document",
@@ -76,8 +79,7 @@
               "RelativeToolTip": "Data\\ApplicationDbContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T21:31:11.449Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-31T21:31:11.449Z"
             },
             {
               "$type": "Document",
@@ -89,8 +91,7 @@
               "RelativeToolTip": "Controllers\\AdmRootController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T13:17:33.146Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-31T13:17:33.146Z"
             },
             {
               "$type": "Document",
@@ -102,8 +103,7 @@
               "RelativeToolTip": "Views\\AdmRoot\\Home.cshtml",
               "ViewState": "AQIAAAcAAAAAAAAAAAAAADMAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-31T12:55:03.89Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-31T12:55:03.89Z"
             },
             {
               "$type": "Document",
@@ -115,8 +115,7 @@
               "RelativeToolTip": "Views\\Admin\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-31T11:44:59.313Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-31T11:44:59.313Z"
             },
             {
               "$type": "Document",
@@ -128,8 +127,7 @@
               "RelativeToolTip": "Controllers\\AdminController.cs",
               "ViewState": "AQIAABIAAAAAAAAAAAAowCMAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T11:33:48.958Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-31T11:33:48.958Z"
             }
           ]
         }

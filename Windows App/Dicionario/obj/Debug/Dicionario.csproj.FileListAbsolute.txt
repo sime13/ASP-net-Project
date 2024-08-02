@@ -1,0 +1,10 @@
+C:\Users\simed\OneDrive\Documentos\Asp Net Core\Git hub project Asp net\ASP-net-Project\Windows App\Dicionario\bin\Debug\Dicionario.exe.config
+C:\Users\simed\OneDrive\Documentos\Asp Net Core\Git hub project Asp net\ASP-net-Project\Windows App\Dicionario\bin\Debug\Dicionario.exe
+C:\Users\simed\OneDrive\Documentos\Asp Net Core\Git hub project Asp net\ASP-net-Project\Windows App\Dicionario\bin\Debug\Dicionario.pdb
+C:\Users\simed\OneDrive\Documentos\Asp Net Core\Git hub project Asp net\ASP-net-Project\Windows App\Dicionario\obj\Debug\Dicionario.csproj.AssemblyReference.cache
+C:\Users\simed\OneDrive\Documentos\Asp Net Core\Git hub project Asp net\ASP-net-Project\Windows App\Dicionario\obj\Debug\Dicionario.Form1.resources
+C:\Users\simed\OneDrive\Documentos\Asp Net Core\Git hub project Asp net\ASP-net-Project\Windows App\Dicionario\obj\Debug\Dicionario.Properties.Resources.resources
+C:\Users\simed\OneDrive\Documentos\Asp Net Core\Git hub project Asp net\ASP-net-Project\Windows App\Dicionario\obj\Debug\Dicionario.csproj.GenerateResource.cache
+C:\Users\simed\OneDrive\Documentos\Asp Net Core\Git hub project Asp net\ASP-net-Project\Windows App\Dicionario\obj\Debug\Dicionario.csproj.CoreCompileInputs.cache
+C:\Users\simed\OneDrive\Documentos\Asp Net Core\Git hub project Asp net\ASP-net-Project\Windows App\Dicionario\obj\Debug\Dicionario.exe
+C:\Users\simed\OneDrive\Documentos\Asp Net Core\Git hub project Asp net\ASP-net-Project\Windows App\Dicionario\obj\Debug\Dicionario.pdb
