@@ -3,11 +3,19 @@
   "WorkspaceRootPath": "C:\\Users\\simed\\OneDrive\\Documentos\\Asp Net Core\\Git hub project Asp net\\ASP-net-Project\\Windows App\\Dicionario\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4F5D10B3-03D7-4666-8774-AA962B5DCDB4}|Dicionario.csproj|c:\\users\\simed\\onedrive\\documentos\\asp net core\\git hub project asp net\\asp-net-project\\windows app\\dicionario\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4F5D10B3-03D7-4666-8774-AA962B5DCDB4}|Dicionario.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F5D10B3-03D7-4666-8774-AA962B5DCDB4}|Dicionario.csproj|c:\\users\\simed\\onedrive\\documentos\\asp net core\\git hub project asp net\\asp-net-project\\windows app\\dicionario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F5D10B3-03D7-4666-8774-AA962B5DCDB4}|Dicionario.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4F5D10B3-03D7-4666-8774-AA962B5DCDB4}|Dicionario.csproj|c:\\users\\simed\\onedrive\\documentos\\asp net core\\git hub project asp net\\asp-net-project\\windows app\\dicionario\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{4F5D10B3-03D7-4666-8774-AA962B5DCDB4}|Dicionario.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4F5D10B3-03D7-4666-8774-AA962B5DCDB4}|Dicionario.csproj|c:\\users\\simed\\onedrive\\documentos\\asp net core\\git hub project asp net\\asp-net-project\\windows app\\dicionario\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4F5D10B3-03D7-4666-8774-AA962B5DCDB4}|Dicionario.csproj|C:\\Users\\simed\\OneDrive\\Documentos\\Asp Net Core\\Git hub project Asp net\\ASP-net-Project\\Windows App\\Dicionario\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4F5D10B3-03D7-4666-8774-AA962B5DCDB4}|Dicionario.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,11 +26,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\simed\\OneDrive\\Documentos\\Asp Net Core\\Git hub project Asp net\\ASP-net-Project\\Windows App\\Dicionario\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "C:\\Users\\simed\\OneDrive\\Documentos\\Asp Net Core\\Git hub project Asp net\\ASP-net-Project\\Windows App\\Dicionario\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-08-02T22:31:04.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\simed\\OneDrive\\Documentos\\Asp Net Core\\Git hub project Asp net\\ASP-net-Project\\Windows App\\Dicionario\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\simed\\OneDrive\\Documentos\\Asp Net Core\\Git hub project Asp net\\ASP-net-Project\\Windows App\\Dicionario\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T22:30:45.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\simed\\OneDrive\\Documentos\\Asp Net Core\\Git hub project Asp net\\ASP-net-Project\\Windows App\\Dicionario\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
@@ -35,7 +69,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\simed\\OneDrive\\Documentos\\Asp Net Core\\Git hub project Asp net\\ASP-net-Project\\Windows App\\Dicionario\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
