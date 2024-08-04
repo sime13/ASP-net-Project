@@ -2,6 +2,7 @@
 using Microsoft.VisualStudio.Web.CodeGenerators.Mvc.Templates.BlazorIdentity.Pages.Manage;
 using skilltech.Data;
 using skilltech.Models;
+using Microsoft.EntityFrameworkCore;
 
 
 namespace skilltech.Controllers
@@ -53,5 +54,29 @@ namespace skilltech.Controllers
              return View();
          }
         */
+
+        //loging admm
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> Login(string email, string senha)
+        {
+            if (ModelState.IsValid)
+            {
+                var admin = await _context.AdminModels
+                    .FirstOrDefaultAsync(a => a.Email == email && a.Senha == senha);
+
+                if (admin != null)
+                {
+                    // Autenticação bem-sucedida, redirecionar para a página de administração
+                    // Você pode usar um mecanismo de autenticação, como cookies, aqui
+                    return RedirectToAction("Index", "Home");
+                }
+
+                // Caso contrário, mostrar uma mensagem de erro
+                ModelState.AddModelError(string.Empty, "Login inválido.");
+            }
+
+            return View();
+        }
     }
 }

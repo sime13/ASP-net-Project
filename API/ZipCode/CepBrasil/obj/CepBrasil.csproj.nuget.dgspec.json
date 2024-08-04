@@ -1,0 +1,86 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\simed\\OneDrive\\Documentos\\Asp Net Core\\Git hub project Asp net\\ASP-net-Project\\API\\ZipCode\\CepBrasil\\CepBrasil.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\simed\\OneDrive\\Documentos\\Asp Net Core\\Git hub project Asp net\\ASP-net-Project\\API\\ZipCode\\CepBrasil\\CepBrasil.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\simed\\OneDrive\\Documentos\\Asp Net Core\\Git hub project Asp net\\ASP-net-Project\\API\\ZipCode\\CepBrasil\\CepBrasil.csproj",
+        "projectName": "CepBrasil",
+        "projectPath": "C:\\Users\\simed\\OneDrive\\Documentos\\Asp Net Core\\Git hub project Asp net\\ASP-net-Project\\API\\ZipCode\\CepBrasil\\CepBrasil.csproj",
+        "packagesPath": "C:\\Users\\simed\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\simed\\OneDrive\\Documentos\\Asp Net Core\\Git hub project Asp net\\ASP-net-Project\\API\\ZipCode\\CepBrasil\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\simed\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "System.Net.Http": {
+              "target": "Package",
+              "version": "[4.3.4, )"
+            },
+            "System.Net.Sockets": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
